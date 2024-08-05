@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import mysql.connector
 import requests
-
+# test rubah
 app = Flask(__name__)
 
 # Koneksi ke database MySQL
